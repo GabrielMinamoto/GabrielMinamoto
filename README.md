@@ -1,5 +1,5 @@
-## Hi there 👋
- 💬
+## 👋
+ 💬👨‍💻
  Olá, sou Gabriel de Amorim Minamoto, estudante de Sistemas de Informação (SI) na FIAP, conhecendo e me apaixonando pela area de tecnologia. 
  Tenho foco em Full-stack e busco sempre aprimorar minhas habilidades e conhecimentos.
  
